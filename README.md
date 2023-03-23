@@ -14,11 +14,11 @@ My [homeworks repository](https://github.com/maxim-panchishin/zoomcamp2023) for 
 |-----------------------|-------------------------------------------------------------|
 | Docker                | Containerization of Prefect                                 |
 | Prefect               | Orchestration of data pipelines                             |
-| Terraform             | Describe configurations to load them on GCP                 |
+| Terraform             | Describing configurations to load them on GCP               |
 | Google Cloud Platform | Cloud provider                                              |
-| GCP Compute Engine    | Creating Virtual Machines                                   |
-| GCP Cloud Storage     | Store data on cloud                                         |
-| GCP BigQuery          | Database to manage data                                     |
+| GCP Compute Engine    | Creating virtual machines                                   |
+| GCP Cloud Storage     | Store data on the   cloud                                   |
+| GCP BigQuery          | Database for managing data                                  |
 | dbt Cloud             | Describe data models in Data Vault and Presentation Layers  |
 | Looker                | Dashboard                                                   |
 
